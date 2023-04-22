@@ -14,7 +14,7 @@
     "express-basic-auth": "^1.2.0",
     "http": "0.0.1-security",
     "node-schedule": "^2.0.0",
-    "node-ssh": "^11.1.1",
+    "node-ssh": "^13.1.0",
     "unifi-axios-events": "^0.1.0"
   }
 }
